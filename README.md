@@ -11,7 +11,7 @@ Update 9th March 2014
 
 Current Stack:
 
-*Ruby on Rails
-*MongoDB
-*Resque & Redis
-*Twitter Bootstrap 3
+* Ruby on Rails
+* MongoDB
+* Resque & Redis
+* Twitter Bootstrap 3
